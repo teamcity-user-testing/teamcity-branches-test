@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="teamcity-branches-test:jar">
+    <output-path>$PROJECT_DIR$/build/artifacts/teamcity_branches_test_jar</output-path>
+    <root id="archive" name="teamcity-branches-test.jar">
+      <element id="module-output" name="teamcity-branches-test" />
+    </root>
+  </artifact>
+</component>
